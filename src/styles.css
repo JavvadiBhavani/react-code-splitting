@@ -1,0 +1,20 @@
+.App {
+  font-family: 'Gill Sans';
+  
+}
+li {
+  list-style-type: none;
+}
+body {
+  background-image: url("https://acornlibrary.org/wp-content/uploads/2020/04/unnamed-6-scaled.jpg");
+  background-size: cover;
+}
+nav {
+  text-align: right;
+  font-size: 28px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'Gill Sans';
+ text-decoration:none;
+ padding: 20px;
+ color: rgb(6, 220, 53);
+}
+
